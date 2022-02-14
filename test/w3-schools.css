@@ -252,6 +252,7 @@ b {
     }
     .ti-menu-alt {
         display: block;
+        color:white;
     }
 }
 
@@ -261,5 +262,6 @@ b {
     }
     .ti-menu-alt {
         display: block;
+         color:white;
     }
 }
